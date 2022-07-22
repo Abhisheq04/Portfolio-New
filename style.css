@@ -109,11 +109,14 @@ footer {
     .twitter{
         flex-direction: column-reverse;
     }
-    .whatido{
+    #whatidid{
         flex-direction: column-reverse;
     }
     .projectpic{
         width: 90%;
+    }
+    .whatido{
+      flex-direction: column-reverse;
     }
     
 }
